@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="IRC_Testing_D9_TestNGListeners.IRC_Testing_D9_TestNGListenersT1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
